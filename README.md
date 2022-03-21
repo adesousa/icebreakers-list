@@ -194,6 +194,8 @@ These are more sophisticated ice breakers. Also organized by Category.
 ## New Audience
 
 ## Energizers
+- Cross the river: https://managementhelp.org/blogs/facilitation/2012/11/20/crossing-the-river-my-favorite-team-building-activity/
+- My First Job: https://www.funretrospectives.com/my-first-job/
 
 ## Remote & Virtual
 - https://garticphone.com
