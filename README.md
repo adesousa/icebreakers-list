@@ -5,7 +5,7 @@ Some are from my own others are curated, you can find at the end my sources to f
 Feel free to contribute by doing pull requests please :) 
 
 # Ice Breaker Questions
-These are simple but yet powerfull ways to perform Ice Breakers. Sometimes a simple question is just what you need to put up a good atmosfere...
+These are simple but yet powerfull ways to perform Ice Breakers. Sometimes a simple question is just what you need to put up a good atmosphere...
 Here are the Ice breaking questions organized by Category.
 
 # Amazing out-the-box
@@ -165,7 +165,7 @@ Here are the Ice breaking questions organized by Category.
 - If you were invisible for a day, what would you do?
 - What is your favorite ice cream flavor and ice cream topping?
 
-## Holydays
+## Holidays
 - What is your earliest holiday memory?
 - How old were you when you learned that Santa – gasp – doesn’t exist?
 - Do you prefer gingerbread people or houses?
