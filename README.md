@@ -49,6 +49,7 @@ Here are the Ice breaking questions organized by Category.
 - If you were left on a deserted island with either your worst enemy or no one, which would you choose? Why?
 - If aliens landed on earth tomorrow and offered to take you home with them, would you go?
 - 60s, 70s, 80s, 90s: Which decade do you love the most and why?
+- If you had to color your hair after losing a bet, what would be your color choice ?
 - What’s your favorite sandwich and why?
 
 ## Remote & Virtual
