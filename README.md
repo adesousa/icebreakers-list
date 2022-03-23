@@ -197,6 +197,7 @@ These are more sophisticated ice breakers. Also organized by Category.
 ## Energizers
 - Cross the river: https://managementhelp.org/blogs/facilitation/2012/11/20/crossing-the-river-my-favorite-team-building-activity/
 - My First Job: https://www.funretrospectives.com/my-first-job/
+- VH1 Guess the Year (of a song): https://www.youtube.com/playlist?list=PLVlxqQWS8qTRV6nNc4_HBxGWPhoC7wHFF, https://open.spotify.com/playlist/7vVy6RndfxKHFy38fo7ywg or https://open.spotify.com/playlist/4VbKfJYx0gbaAyZxLkDXG9
 
 ## Remote & Virtual
 - https://garticphone.com
